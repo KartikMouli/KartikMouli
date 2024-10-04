@@ -23,6 +23,7 @@
 Valorant Tournament Booking App - A full-stack application built using Next.js, Supabase, and Tailwind CSS that allows users to create and join Valorant tournaments.
 
 
+
 DexApp - A mini cryptocurrency exchange deployed on Sepolia Testnet, enabling token transfers and swapping using Solidity and Web3.js.
 
 
