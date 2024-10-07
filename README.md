@@ -7,9 +7,9 @@
   <a href="https://github.com/KartikMouli" target="_blank"><img src="https://img.shields.io/badge/GitHub-30302f?style=flat&logo=github" alt="GitHub"></a>
 </p>
 
+<hr>
 
-
-👨‍💻 About Me
+<h3> 👨‍💻About Me</h3>
 
 🎓 Graduated in 2024 from IIT Patna with a B.Tech in Computer Science & Engineering.
 
@@ -22,9 +22,9 @@
 📝 Check out my resume here: [View Resume](https://drive.google.com/file/d/16ebey3K6tIWcpgVi0Gc7zI3mYVpgdHxR/view?usp=sharing)
 
 
+<hr>
 
-
-🚀 My Tech Stack
+ <h3>🚀 My Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -39,9 +39,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+<hr>
 
-
-🛠️ Programming Languages
+<h3> 🛠️Programming Languages</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -52,9 +52,9 @@
 </p>
 
 
+<hr>
 
-
-💡 Projects
+<h3>💡 Projects</h3>
 
 - **Valorant Tournament Booking App**: Built with Next.js, Supabase, and Tailwind CSS, this app allows users to create, join, and manage Valorant tournaments in real-time.
   
@@ -67,9 +67,9 @@
   [Live Link](https://chat-ai-mu-dun.vercel.app/)
 
 
+<hr>
 
-
-🏆 Competitive Programming
+ <h3>🏆 Competitive Programming</h3>
 
 <p>
   <a href="https://leetcode.com/monchi02" target="_blank">
@@ -92,9 +92,9 @@
 
 
 
+<hr>
 
-
-📫 Connect with Me
+<h3>📫 Connect with Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kartik-mouli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
