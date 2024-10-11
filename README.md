@@ -54,21 +54,6 @@
 
 <hr>
 
-<h3>💡 Projects</h3>
-
-- **Valorant Tournament Booking App**: Built with Next.js, Supabase, and Tailwind CSS, this app allows users to create, join, and manage Valorant tournaments in real-time.
-  
-  [Live Link](https://valoarena.vercel.app/)
-- **DexApp**: A decentralized cryptocurrency exchange that enables token swaps and transfers on the Sepolia Testnet using Solidity and Web3.js.
-
-  [Live Link](https://dexapp-bc.vercel.app/)
-- **ChatAI**: A real-time chat app with a ChatGPT-like interface. Developed using the MERN stack, Clerk for authentication, and React Query for data fetching.
-  
-  [Live Link](https://chat-ai-mu-dun.vercel.app/)
-
-
-<hr>
-
  <h3>🏆 Competitive Programming</h3>
 
 <p>
