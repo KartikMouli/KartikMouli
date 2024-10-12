@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Kartik Mouli</h1>
-<h3 align="center"> IIT Patna CSE'24 | Competitive Programmer</h3>
+<h3 align="center"> IIT Patna CSE'24 | Competitive Programming </h3>
 <p align="center">
   <a href="https://linkedin.com/in/kartik-mouli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-30302f?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:kartikmouli156@gmail.com"><img src="https://img.shields.io/badge/Email-30302f?style=flat&logo=gmail&logoColor=red" alt="Email"></a>
