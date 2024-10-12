@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Kartik Mouli 👋</h1>
+<h1 align="center">Hello, I'm Kartik Mouli</h1>
 <h3 align="center"> IIT Patna CSE'24 | Competitive Programmer</h3>
 <p align="center">
   <a href="https://linkedin.com/in/kartik-mouli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-30302f?style=flat&logo=linkedin" alt="LinkedIn"></a>
@@ -56,7 +56,10 @@
 
  <h3>🏆 Competitive Programming</h3>
 
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/monchi02?ext=heatmap)
+
 <p>
+  
   <a href="https://leetcode.com/monchi02" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
   </a> Max Rating <strong>1878</strong>
@@ -71,9 +74,7 @@
     <img src="https://img.shields.io/badge/CodeChef-BF40BF?style=flat&logo=codechef&logoColor=white" alt="CodeChef Profile" />
   </a> Max Rating <strong>1689</strong>
 </p>
-<p>
- Qualified for<a href="https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/630261065889865"> <strong>Meta Hacker Cup 2023 </a>Round 2</strong> with a rank of <strong>2932</strong>
-</p> 
+
 
 
 
