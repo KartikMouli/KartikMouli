@@ -1,5 +1,8 @@
+![header](https://github.com/user-attachments/assets/b01455f6-2275-4cde-bd44-cfbe6d7c3e2e)
+
 <h1 align="center">Hello, I'm Kartik Mouli</h1>
 <h3 align="center"> IIT Patna CSE'24 | Competitive Programming | Fullstack Developement </h3>
+<hr/>
 <p align="center">
   <a href="https://linkedin.com/in/kartik-mouli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-30302f?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:kartikmouli156@gmail.com"><img src="https://img.shields.io/badge/Email-30302f?style=flat&logo=gmail&logoColor=red" alt="Email"></a>
