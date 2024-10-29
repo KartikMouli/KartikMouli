@@ -57,9 +57,10 @@
 
 <hr>
 
- <h3>🏆 Competitive Programming</h3>
+ <h3>🏆 Data Playground </h3>
 
  ![Leetcode Stats](https://leetcard.jacoblin.cool/monchi02?ext=heatmap)
+ ![kartikmouli's Stats](https://github-readme-stats.vercel.app/api?username=kartikmouli&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 <p>
   
