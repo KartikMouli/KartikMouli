@@ -80,6 +80,13 @@
 </p>
 
 <p align="center">
+  <img  src="https://assets.leetcode.com/static_assets/marketing/2023-100.png" height="75" width="75"/>
+  <img  src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" height="75" width="75"/>
+  <img  src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" height="75" width="75"/>
+  <img  src="https://assets.leetcode.com/static_assets/marketing/2023-50.png" height="75" width="75"/>
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/monchi02" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
   </a> Max Rating: <strong>1878</strong> | 
@@ -90,6 +97,8 @@
     <img src="https://img.shields.io/badge/CodeChef-BF40BF?style=flat&logo=codechef&logoColor=white" alt="CodeChef Profile" />
   </a> Max Rating: <strong>1689</strong>
 </p>
+
+
 
 <hr style="border: 2px solid #D35400;"/>
 <hr style="border: 2px solid #D35400;"/>
