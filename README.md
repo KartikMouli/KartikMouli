@@ -38,4 +38,9 @@
 📝 Check out my resume here: [View Resume](https://drive.google.com/file/d/16ebey3K6tIWcpgVi0Gc7zI3mYVpgdHxR/view?usp=sharing)
 </p>
 
+<p>
+  <img src="https://streak-stats.demolab.com?user=KartikMouli&theme=monokai&hide_border=true" alt="KartikMouli's GitHub Stats" />
+</p>
+
+
 
