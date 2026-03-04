@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b01455f6-2275-4cde-bd44-cfbe6d7c3e2e" alt="Kartik Mouli" width="100%" />
-  <h1 style="color: #2C3E50;">Hie, I'm Kartik Mouli!</h1>
-  <h3 style="color: #34495E;">IIT Patna CSE '24 | Competitive Programming | Fullstack Web Development</h3>
+  <h1 style="color: #2C3E50;">Hi, I'm Kartik Mouli!</h1>
+  <h3 style="color: #34495E;">IIT Patna CSE '24 | SDE </h3>
   <hr style="width: 50%; border: 1px solid #ddd;"/>
 </div>
 
@@ -27,15 +27,14 @@
 
 <h3 style="color: #16A085;">👨‍💻 A Little About Me</h3>
 <p>
-🎓 Graduated in 2024 from IIT Patna with a B.Tech in Computer Science & Engineering.
+ Graduated in 2024 from IIT Patna with a B.Tech in Computer Science & Engineering.
 
-🌱 Currently advancing in Full-Stack Development.
+ Currently advancing in Full-Stack Development.
 
-💬 Ask me about Web Dev and CP.
+ Ask me about Web Dev and CP.
 
-🎯 Interested in creating scalable, efficient software solutions and contributing to open-source.
-
-📝 Check out my resume here: [View Resume](https://drive.google.com/file/d/16ebey3K6tIWcpgVi0Gc7zI3mYVpgdHxR/view?usp=sharing)
+ Interested in creating scalable, efficient software solutions and contributing to open-source.
+ 
 </p>
 
 <p>
