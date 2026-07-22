@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b01455f6-2275-4cde-bd44-cfbe6d7c3e2e" alt="Kartik Mouli" width="100%" />
   <h1>Kartik Mouli</h1>
-  <h3>Backend & AI Infrastructure Engineer &nbsp;|&nbsp; IIT Patna, CSE '24</h3>
+  <h3>Backend & AI Engineer &nbsp;|&nbsp; IIT Patna, CSE '24</h3>
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### About
 
-Software Development Engineer on the Core AI team at **Unizoy**. I build backend systems that carry real production load — distributed services, LLM/RAG pipelines, and the infrastructure that keeps them fast and cheap.
+Software Development Engineer on the Core AI team at **Unizoy**. I build backend systems that carry real production load — distributed services, LLM/RAG pipelines, and the tooling that keeps them fast and cheap.
 
 Most of my strongest work lives in private and company repositories, so the summary below is the honest index of it.
 
@@ -52,7 +52,7 @@ Lead developer on an internal brokerage accounting platform serving 1,000+ broke
 **Backend** &nbsp;NestJS · Node.js · Express · FastAPI · Flask
 **Frontend** &nbsp;React · Next.js · Tailwind
 **Data** &nbsp;PostgreSQL · Redis · TypeORM · BullMQ
-**Infra** &nbsp;AWS (EC2, RDS, S3) · Docker · GitHub Actions · Turborepo
+**Cloud & DevOps** &nbsp;AWS (EC2, RDS, S3) · Docker · GitHub Actions · Turborepo
 **AI** &nbsp;OpenAI · Anthropic · Azure · Gemini · RAG pipelines · Whisper
 
 ---
