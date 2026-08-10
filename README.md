@@ -16,33 +16,9 @@
 
 ### About
 
-Software Development Engineer on the Core AI team at **Unizoy**. I build backend systems that carry real production load — distributed services, LLM/RAG pipelines, and the tooling that keeps them fast and cheap.
+Software Development Engineer on the Core team at **Unizoy**. I build backend systems that carry real production load — distributed services, LLM/RAG pipelines, and the tooling that keeps them fast and cheap.
 
 Most of my strongest work lives in private and company repositories, so the summary below is the honest index of it.
-
----
-
-### What I've built
-
-**Converzoy — AI sales-agent platform** · *Unizoy*
-Built and deployed on AWS with Docker and CI/CD. Live across 5+ client websites at 99.99% uptime, with one client seeing a 40% lift in conversions. Led the embeddable Next.js chat widget with SSE-streamed responses, in-chat scheduling, and context-aware proactive prompts. Added multi-tenant usage metering, subscription billing, and automated tenant provisioning.
-`Next.js` `NestJS` `AWS` `Docker` `PostgreSQL` `Redis`
-
-**Self-hosted speech-to-text microservice** · *Unizoy*
-OpenAI-compatible STT service running int8-quantized Whisper on CPU inference, shipped to production to replace the paid OpenAI Whisper API.
-`Python` `Whisper` `Docker`
-
-**Persona chatbot & RAG pipeline** · *Unizoy*
-Custom retrieval pipeline powering a chatbot that replies in a creator's distinct voice, trained on 250+ videos (~125 hrs) of content. 200+ daily active users.
-`RAG` `Vector search` `LLM orchestration`
-
-**DigiQuick — AI SaaS for research & document generation**
-Primary author of a 3-app monorepo generating 300+ AI artifacts/month (web apps, PDF, Notion, Docs, Excel) through a guided chat wizard; launched to 500+ beta users. Built a provider-agnostic LLM service across OpenAI, Anthropic, Azure and Gemini with per-call cost tracking, cutting API spend 40–50% via Redis response caching. Plus one-click React deploys to Vercel, server-side PDF rendering, and a credit and creator revenue-split system on BullMQ workers.
-`NestJS` `Next.js` `Turborepo` `PostgreSQL` `Redis` `BullMQ` `AWS`
-
-**iDelta — stock brokerage platform**
-Lead developer on an internal brokerage accounting platform serving 1,000+ brokers. Architected its 7-service Turborepo monorepo. Cut financial-report queries from over 2s to under 300ms across 1M+ daily rows, backed by an incremental precompute engine that recomputes only the rows each upload affects. Built the IAM service — multi-scope JWT, TOTP 2FA, refresh-token rotation, RBAC, Redis rate limiting, and a 5-step resumable KYC flow — plus an event-driven identity-sync layer with drift-reconciliation, and ICICI/Axis bank API integrations for ledger reconciliation.
-`NestJS` `React 19` `PostgreSQL` `TypeORM` `Redis` `Socket.io` `AWS S3`
 
 ---
 
